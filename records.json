@@ -1,0 +1,17 @@
+[
+    {
+        "roll": "101",
+        "name": "Aarav Sharma",
+        "marks": 88.5
+    },
+    {
+        "roll": "102",
+        "name": "Diya Patel",
+        "marks": 94.0
+    },
+    {
+        "roll": "103",
+        "name": "Rohan Deshmukh",
+        "marks": 76.5
+    }
+]
